@@ -8,13 +8,9 @@ options(digits = 3)
 set.seed(2021) 
 
 #------------------------------------------------
-#Import the data set
 #libraries
 #------------------------------------------------
 library(readr)
-data <- read.table("https://github.com/Jose-DVargas/Proyecto_Raphanus_UNA/blob/main/Data/luz.txt", header = TRUE, dec = ".", sep = "")
-
-data <- read.table(file = "Data/luz.txt", header = TRUE, dec = ".", sep = "")
 library(ggplot2)
 #------------------------------------------------
 #Import the data set
