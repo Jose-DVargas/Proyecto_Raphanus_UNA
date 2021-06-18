@@ -1,4 +1,4 @@
-"Distancias"	"luz"	"hojas"	"peso"
+Distancias	luz	hojas	peso
 5.5	100	20	17.4
 5.5	100	16	15.3
 5.5	100	18	15.2
